@@ -1,3 +1,7 @@
-# SPHERE Standards
+# SPHERE Standards – CMAM
 
-Document SPHERE indicators.
+Cure Rate: > 75%  
+Death Rate: < 5%  
+Default Rate: < 15%  
+
+Source: SPHERE Handbook – Nutrition and Food Security
