@@ -33,23 +33,35 @@ This type of analysis directly contributes to reducing child mortality and impro
 ## Technical Skills Demonstrated
 
 Data Analysis:
+
 • Longitudinal data analysis
+
 • Time-series analysis
+
 • KPI calculation
 
 Tools:
+
 • Tableau
+
 • Python
+
 • Excel
 
 Data Cleaning:
+
 • Missing data handling
+
 • Caseload validation
+
 • Data standardization
 
 Humanitarian Analytics:
+
 • CMAM performance monitoring
+
 • SPHERE compliance analysis
+
 • Caseload trend analysis
 
 ---
