@@ -1,11 +1,6 @@
 # Assumptions
 
-Document analysis assumptions.
-
-Assumptions:
-
-• All facilities reported accurately
-
-• Missing caseload assumed unchanged
-
-• No duplicate admissions
+- Facilities reported accurately
+- Missing discharges assumed zero if not reported
+- No double-counted admissions
+- Reporting completeness > 90%
