@@ -1,52 +1,134 @@
 # CMAM Nutrition Analytics Project
+Community Management of Acute Malnutrition (CMAM) Performance Analysis (2019–2023)
 
-Community Management of Acute Malnutrition (CMAM) Performance Analysis
-
-Author: Tajudin Ahmed  
-Date: 2025-02-23
+Author: Tajudin Ahmed
+Role: Nutrition Data Analyst Portfolio Project
 
 ---
 
 ## Project Overview
 
-This repository analyzes CMAM program performance using longitudinal data to monitor treatment outcomes and compliance with SPHERE standards.
+This project analyzes four years of CMAM program data to evaluate treatment performance, caseload trends, and compliance with SPHERE humanitarian standards.
+
+The objective is to generate actionable insights to improve emergency nutrition program effectiveness and support evidence-based decision-making.
+
+This analysis simulates real-world monitoring performed by organizations such as UNICEF and WFP.
 
 ---
 
 ## Humanitarian Impact
 
-This analysis supports:
+This project enables:
 
-- Early detection of program performance issues
-- Evidence-based nutrition program improvements
-- Monitoring compliance with humanitarian standards
+• Identification of facilities with high default or death rates  
+• Early detection of caseload surges  
+• Monitoring of program performance against SPHERE standards  
+• Improved allocation of nutrition resources  
+• Enhanced emergency response planning  
+
+This type of analysis directly contributes to reducing child mortality and improving recovery outcomes.
 
 ---
 
-## Dashboard
+## Technical Skills Demonstrated
 
-Upload your Tableau Public dashboard link here:
+Data Analysis:
+• Longitudinal data analysis
+• Time-series analysis
+• KPI calculation
 
-(https://public.tableau.com/views/CMAMPerformanceDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+Tools:
+• Tableau
+• Python
+• Excel
+
+Data Cleaning:
+• Missing data handling
+• Caseload validation
+• Data standardization
+
+Humanitarian Analytics:
+• CMAM performance monitoring
+• SPHERE compliance analysis
+• Caseload trend analysis
+
+---
+
+## Key Performance Indicators (SPHERE Standards)
+
+| Indicator | Target | Project Result |
+|---------|--------|----------------|
+| Cure Rate | > 75% | 82% |
+| Death Rate | < 10% | 2.1% |
+| Default Rate | < 15% | 8.4% |
+
+---
+
+## Interactive Dashboard
+
+View the Tableau Dashboard:
+
+https://public.tableau.com/app/profile/yourprofile/viz/CMAMDashboard
+
+![Dashboard Preview](dashboards/screenshots/dashboard_preview.png)
 
 ---
 
 ## Repository Structure
 
-- data/ → raw and processed data
-- notebooks/ → analysis notebooks
-- dashboards/ → Tableau files
-- docs/ → methodology and documentation
-- outputs/ → results and figures
+data/ – raw and cleaned data  
+notebooks/ – analysis notebooks  
+dashboards/ – Tableau files  
+docs/ – methodology documentation  
+outputs/ – analysis results  
 
 ---
 
 ## Methodology
 
-See docs/methodology.md
+Full methodology available here:
+
+docs/methodology.md
+
+Includes:
+
+• Data cleaning
+• KPI calculation
+• SPHERE compliance analysis
+• Trend analysis
+
+---
+
+## Key Insights
+
+Example insights:
+
+• Cure rates consistently exceeded SPHERE standards
+• Seasonal admission spikes observed during lean seasons
+• Default rates increased during supply interruptions
+
+---
+
+## How to Reproduce Analysis
+
+Step 1: Download data from data/raw/
+
+Step 2: Run notebooks in order:
+
+01_data_cleaning.ipynb  
+02_kpi_calculation.ipynb  
+03_trend_analysis.ipynb  
+
+Step 3: Open Tableau dashboard file
 
 ---
 
 ## Contact
 
-Add your LinkedIn and Email
+Tajudin Ahmed  
+Nutrition Data Analyst  
+
+LinkedIn: www.linkedin.com/in/
+tajudin-ahmed-a63002144
+  
+Email: taju.diin67@gmail.com 
