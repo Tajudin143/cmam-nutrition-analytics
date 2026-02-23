@@ -1,17 +1,10 @@
 # Change Log
 
-Track project changes.
-
 Version 1.0
-
-• Initial data cleaning
-
-• Built KPI calculations
-
-• Created Tableau dashboard
+- Initial data cleaning
+- KPI calculation
+- Dashboard creation
 
 Version 1.1
-
-• Added SPHERE compliance analysis
-
-• Improved data validation
+- Added SPHERE compliance tracking
+- Added validation checks
