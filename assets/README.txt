@@ -1,1 +1,1 @@
-Place workflow diagrams or GIFs here.
+Raw Data → Cleaning → KPI Calculation → Analysis → Dashboard → Decision Support
