@@ -1,16 +1,23 @@
 # Data Dictionary
 
-Variable: admissions
-Description: Number of new SAM admissions
+Variable: admissions  
+Description: New SAM admissions during reporting month  
+Unit: count  
 
-Unit: count
+Variable: cured  
+Description: Children discharged as cured  
+Unit: count  
 
-Variable: cured
-Description: Number of children discharged as cured
+Variable: death  
+Description: Deaths during treatment  
+Unit: count  
 
-Unit: count
+Variable: default  
+Description: Treatment defaulters  
+Unit: count  
 
-Variable: default
-Description: Number of children defaulting from treatment
+Variable: opening_caseload  
+Description: Active cases at start of month  
 
-Unit: count
+Variable: end_caseload  
+Description: Active cases at end of month  
