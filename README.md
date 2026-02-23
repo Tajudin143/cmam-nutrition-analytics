@@ -103,7 +103,9 @@ Includes:
 Example insights:
 
 • Cure rates consistently exceeded SPHERE standards
+
 • Seasonal admission spikes observed during lean seasons
+
 • Default rates increased during supply interruptions
 
 ---
