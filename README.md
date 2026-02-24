@@ -12,7 +12,7 @@ This project analyzes four years of CMAM program data to evaluate treatment perf
 
 The objective is to generate actionable insights to improve emergency nutrition program effectiveness and support evidence-based decision-making.
 
-This analysis simulates real-world monitoring performed by organizations such as UNICEF and WFP.
+
 
 ---
 
