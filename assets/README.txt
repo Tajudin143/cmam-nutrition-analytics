@@ -1,1 +1,5 @@
-Place workflow diagrams or GIFs here.
+## CMAM Analysis Workflow
+
+<p align="center">
+  <img src="assets/cmam_analysis_workflow.png" width="800">
+</p>
